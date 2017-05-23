@@ -1,5 +1,5 @@
 CREATE TABLE ENTJOBLESS(
-	id int not null PRIMARY KEY,
+    id int not null PRIMARY KEY,
     ent_id nvarchar(50) not null,
     time datetime not null,
     first_num int(10) not null,
