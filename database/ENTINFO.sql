@@ -1,4 +1,3 @@
-use CNSRDB
 create table ENTINFO(
 	id int not null,
 	namech nvarchar(50) not null,
