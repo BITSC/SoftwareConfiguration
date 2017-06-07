@@ -1,0 +1,22 @@
+
+
+.li-wrapper{
+    padding: 4px;
+    font-family: "微软雅黑";
+}
+
+.li-wrapper a{
+    text-decoration:none;
+}
+
+.li-wrapper span{
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.bg-wrapper{
+    font-family: "微软雅黑";
+    color: white;
+
+}

@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+#bottom{
+    float:left;
+    width:100%;
+    height:50px;
+    margin-top:10px;
+}
+
+#bottom hr{
+    width:80%;
+    color:grey;
+}
+
+#bottom div{
+    margin-top:5px;
+    font-family:"微软雅黑";
+}
+
+#bottom a{
+    color: white;
+    text-decoration:none;
+}
+
+#bottom a:hover{
+    text-decoration:underline;
+}
+
+.txt-wrapper{
+    color: #ffffff;
+}
+
+.txt-wrapper p{
+    margin-top: 10px;
+}
